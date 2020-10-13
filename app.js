@@ -15,5 +15,5 @@ let min = 1,
 const game = document.getElementById("game"),
       minNum = document.querySelector(".min-num"),
       maxNum = document.querySelector(".max-num"),
-      guessBtn = document.querySelector(".guess-btn"),
+      guessBtn = document.querySelector(".guess-btn")
 
